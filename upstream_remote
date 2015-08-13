@@ -1,1 +1,1 @@
-Explain what the upstream remote is usually used for, in your own words
+Upstreame remote is used to update the original repositories. The upstream repository is also known as the original repository. When a change is made after forking a repo or cloning it, the changes are pushed to the upstream repository.
