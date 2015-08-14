@@ -1,1 +1,1 @@
-Branches are used in order to carry out experiments with changes. The branch allows a user to propose changes to the master branch. These branches can be sent to the project manager.
+Branches are used in order to carry out experiments with changes. The branch allows a user to propose changes to the master branch. However it is a safer option as you are not committing any unstable code to your master branch. Once the code in the other branches is stable, the branches can be merged together, bringing everything back into the master branch.
